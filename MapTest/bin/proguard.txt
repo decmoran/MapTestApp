@@ -1,0 +1,6 @@
+# view res/layout/activity_main.xml #generated:12
+-keep class com.google.android.gms.maps.SupportMapFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class ie.ul.id0145076.maptest.MainActivity { <init>(...); }
+
